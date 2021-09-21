@@ -1,39 +1,40 @@
-# PROJECT NAME
+# Employee management system(EMS)
 
 #Project Description
-Here goes your awesome project description!
-
+The Employee Management System, EMS, provides all users to use of a blog form platform. The blog form allows all users to share information such as job-related articles, personal development resources, and personal reflections on blog posts. Admin can run the payroll application for all employees. Besides, the admin can create, edit, and delete employee accounts information. In addition to that, all users can create and edit their user information.
 
 # Technologies Used
-Tech 1 - version 1.0
-Tech 2 - version 2.0
-Tech 3 - version 3.0
-
+.Java
+.SQL
+.JDBC
+.Spring Framework
+.REST
 
 # Features
-List of features ready and TODOs for future development
+. User can register and sign in with the user name and password.
+. User can change his password and view his profile.
 
-Awesome feature 1
-Awesome feature 2
-Awesome feature 3
+
 To-do list:
 
-Wow improvement to be done 1
-Wow improvement to be done 2
+. Timeline needs to made.
+. User Interface needs to made more user friendly.
 
 
 # Getting Started
-(include git clone command) (include all environment setup steps)
+To start the project click on src/main/java and then click on com.facebook.view and then run the file FacebookView.java
+You will four options:
+press 1 to create profile
+press 2 to login profile
+press 3 to edit profile
+press 4 to delete profile
+enter your choice
 
-Be sure to include BOTH Windows and Unix command
-Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
-
-All the code required to get started
-Images of what it should look like
-
+After that you can select your choice to run the program.
 
 # Usage
-Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+The project starts with register page where you can register yourself with your name,password, email, and address.
+After succcesful registration user can login into his profile and view his profile.
 
 
 
